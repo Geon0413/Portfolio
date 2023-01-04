@@ -31,6 +31,7 @@ Python, RPA(Uipath), Javascript, css, Melsec PLC, AutoCad
 >  
 - 기술 스택:  
 >RPA_Uipath
+>
 =============================================
 ### 2. [Javascript 사용 계산기 만들기]
 - Javascrtipt 사용 하여 계산기 구현 
@@ -39,6 +40,7 @@ Python, RPA(Uipath), Javascript, css, Melsec PLC, AutoCad
 >  
 - 기술 스택:  
 > Javascript , CSS
+> 
 =============================================
 ### 3. [디스크 환자 케어]
 - 디스크 재발 환자 예측과 지속케어 시스템 개선 
@@ -57,3 +59,4 @@ Python, RPA(Uipath), Javascript, css, Melsec PLC, AutoCad
 - 기술 스택:  
 > Python, Machine Learning
 >  
+=============================================
