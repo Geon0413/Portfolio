@@ -28,7 +28,8 @@ Python, RPA(Uipath), Javascript, css, Melsec PLC, AutoCad
 - ACME 에 업로드 된 월별 인보이스 엑셀파일을
 다운로드 하여 정합성을 수행하는 프로세스 
 
-- 개발 기간: 2022.08.24 ~ 2022.09.05  
+- 개발 기간: 2022.08.24 ~ 2022.09.05
+- 개발 인원: 1인
 >  
 - 기술 스택:  
 >RPA_Uipath
@@ -38,6 +39,7 @@ Python, RPA(Uipath), Javascript, css, Melsec PLC, AutoCad
 - Javascrtipt 사용 하여 계산기 구현 
 
 - 개발 기간: 2022.10.18 ~ 2022.10.21  
+- 개발 인원: 1인
 >  
 - 기술 스택:  
 > Javascript , CSS
@@ -47,6 +49,7 @@ Python, RPA(Uipath), Javascript, css, Melsec PLC, AutoCad
 - 디스크 재발 환자 예측과 지속케어 시스템 개선 
 
 - 개발 기간: 2022.11.22 ~ 2022.12.05  
+- 개발 인원: 5명
 >  
 - 기술 스택:  
 > Python, Machine Learning
@@ -56,6 +59,7 @@ Python, RPA(Uipath), Javascript, css, Melsec PLC, AutoCad
 - 구독자 음원 소비 패턴 분석을 통한 구독 기간 연장 전략
 
 - 개발 기간: 2022.12.06 ~ 2022.12.14  
+- 개발 인원: 4명
 >  
 - 기술 스택:  
 > Python, Machine Learning
